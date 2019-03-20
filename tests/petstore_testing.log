@@ -1,0 +1,30 @@
+2019-03-20 17:05:25,278 testing.py INFO : Adding new pet to store with pet {"id": "123456789", "name": "doggie", "status": "available"} details
+2019-03-20 17:05:26,104 testing.py INFO : Added pet [ {"id":123456789,"name":"doggie","photoUrls":[],"tags":[],"status":"available"} ] to store
+2019-03-20 17:05:26,208 testing.py INFO : Querying pet details with id 123456789 
+2019-03-20 17:05:26,764 testing.py INFO : Got pet details [ {"id":123456789,"name":"doggie","photoUrls":[],"tags":[],"status":"available"} ] for id 123456789 
+2019-03-20 17:05:27,279 testing.py INFO : Pet details to be renamed {"id":123456789,"name":"doggie","photoUrls":[],"tags":[],"status":"available"} 
+2019-03-20 17:05:27,280 testing.py INFO : Renaming pet with new name Rickey 
+2019-03-20 17:05:28,517 testing.py INFO : Renamed the pet - details {"id":123456789,"name":"Rickey","photoUrls":[],"tags":[],"status":"available"} 
+2019-03-20 17:05:29,221 testing.py INFO : Pet details to be sold {"id":123456789,"name":"Rickey","photoUrls":[],"tags":[],"status":"available"} 
+2019-03-20 17:05:30,669 testing.py INFO : Sold pet -  details {"id":123456789,"name":"Rickey","photoUrls":[],"tags":[],"status":"sold"} 
+2019-03-20 17:05:30,686 testing.py INFO : Updating existing pet with details {"id": "123456789", "name": "Rambo", "status": "sold"} 
+2019-03-20 17:05:31,455 testing.py INFO : Updated the pet  details {"id":123456789,"name":"Rambo","photoUrls":[],"tags":[],"status":"sold"} 
+2019-03-20 17:05:31,470 testing.py INFO : Get existing pets with status available 
+2019-03-20 17:08:39,052 testing.py INFO : Got [ 70052 ] pets with status available 
+2019-03-20 17:08:39,096 testing.py INFO : Removing existing pets 123456789 from store 
+2019-03-20 17:08:40,330 testing.py INFO : Removed pet 123456789 from store  
+2019-03-20 17:12:18,243 testing.py INFO : Adding new pet to store with pet {"id": "123456789", "name": "doggie", "status": "available"} details
+2019-03-20 17:12:19,254 testing.py INFO : Added pet [ {"id":123456789,"name":"doggie","photoUrls":[],"tags":[],"status":"available"} ] to store
+2019-03-20 17:12:19,298 testing.py INFO : Querying pet details with id 123456789 
+2019-03-20 17:12:20,224 testing.py INFO : Got pet details [ {"id":123456789,"name":"doggie","photoUrls":[],"tags":[],"status":"available"} ] for id 123456789 
+2019-03-20 17:12:20,830 testing.py INFO : Pet details to be renamed {"id":123456789,"name":"doggie","photoUrls":[],"tags":[],"status":"available"} 
+2019-03-20 17:12:20,831 testing.py INFO : Renaming pet with new name Rickey 
+2019-03-20 17:12:22,071 testing.py INFO : Renamed the pet - details {"id":123456789,"name":"Rickey","photoUrls":[],"tags":[],"status":"available"} 
+2019-03-20 17:12:22,875 testing.py INFO : Pet details to be sold {"id":123456789,"name":"Rickey","photoUrls":[],"tags":[],"status":"available"} 
+2019-03-20 17:12:24,251 testing.py INFO : Sold pet -  details {"id":123456789,"name":"Rickey","photoUrls":[],"tags":[],"status":"sold"} 
+2019-03-20 17:12:24,269 testing.py INFO : Updating existing pet with details {"id": "123456789", "name": "Rambo", "status": "sold"} 
+2019-03-20 17:12:24,804 testing.py INFO : Updated the pet  details {"id":123456789,"name":"Rambo","photoUrls":[],"tags":[],"status":"sold"} 
+2019-03-20 17:12:24,826 testing.py INFO : Get existing pets with status available 
+2019-03-20 17:15:30,618 testing.py INFO : Got [ 70063 ] pets with status available 
+2019-03-20 17:15:30,663 testing.py INFO : Removing existing pets 123456789 from store 
+2019-03-20 17:15:32,277 testing.py INFO : Removed pet 123456789 from store  
